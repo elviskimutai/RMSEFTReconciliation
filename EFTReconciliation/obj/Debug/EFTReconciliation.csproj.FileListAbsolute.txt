@@ -1,0 +1,14 @@
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\bin\Debug\EFTReconciliation.exe
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\bin\Debug\EFTReconciliation.pdb
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.Form1.resources
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.Properties.Resources.resources
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.csproj.GenerateResource.cache
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.exe
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.pdb
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.csproj.CopyComplete
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.csprojAssemblyReference.cache
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.MissingTx.resources
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.csproj.ResolveComReference.cache
+F:\Wilcom Systems 2020\EFTReconciliation\EFTReconciliation\obj\Debug\EFTReconciliation.DBConnect.resources
